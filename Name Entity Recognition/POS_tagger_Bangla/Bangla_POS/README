@@ -1,0 +1,31 @@
+INSTALLATION GUIDELINE
+----------------------
+
+1. Untar the .zip file
+	
+
+2. Make sure that CRF++0.51 is install in your system 
+
+3. Make sure 5.10.0 and above is installed in the system
+
+
+
+EXECUTE
+-------
+To train the tagger
+
+	btrain.bat <train_data_file> 
+
+
+To test the tagger
+	
+	use btest.bat <file name> 
+
+		the input file can be in UTF-8 encoded or ASCII encoded text
+		system gives the output in 'pos_op' 		 
+
+CONTACT
+-------
+CEL
+IIT Kharagpur
+
